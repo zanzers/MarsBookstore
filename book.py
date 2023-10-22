@@ -1,4 +1,4 @@
-# NOTE!!! w8 for the Online_store to uplaod...
+
 from Online_store import *
 
 class Book(Online_store):
