@@ -1,0 +1,31 @@
+[
+    
+    {
+        "#######": "#################",
+        "bookID": 3,
+        "title": "book1",
+        "author": "author",
+        "ISBN": "123456",
+        "price": "12,12"
+    },
+    {
+         "#######": "#################",
+        "Title": "TEST_TELA",
+        "Author": "Ngoawe",
+        "ISBN": "978-111111111",
+        "Publication_Year": "1901",
+        "Availability": "Checked Out",
+        "Genre": "Non-Fiction",
+        "Store_Name": "MarsBook"
+    },
+    {
+        "#######": "#################",
+        "Title": "TEST_TELA",
+        "Author": "Ngoawe",
+        "ISBN": "978-111111111",
+        "Publication_Year": "1901",
+        "Availability": "Checked Out",
+        "Genre": "Non-Fiction",
+        "Store_Name": "MarsBook"
+    }
+]
