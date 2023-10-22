@@ -1,5 +1,4 @@
-# NOTE!!! w8 for the Online_store to uplaod...
-from Online_store import *
+
 
 class Book(Online_store):
     def __init__(self, json_file, store_name):
@@ -11,6 +10,15 @@ class Book(Online_store):
         for book_data in data:
              for key, value in book_data.items():
                 print(f"{key}: {value}")
+
+
+
+
+
+
+
+
+
 
 
 store = Online_store(json_file="books.json", store_name="MarsBook")
