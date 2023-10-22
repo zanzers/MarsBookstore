@@ -1,31 +1,56 @@
 [
-    
     {
-        "#######": "#################",
-        "bookID": 3,
-        "title": "book1",
-        "author": "author",
-        "ISBN": "123456",
-        "price": "12,12"
+      "Title": "The Catcher in the Rye",
+      "Author": "J.D Salinger",
+      "ISBN": "978-0316769488",
+      "publication_year": "1953",
+      "Availability": "Available",
+      "Genre": "Fiction",
+      "------": "------"
     },
     {
-         "#######": "#################",
-        "Title": "TEST_TELA",
-        "Author": "Ngoawe",
-        "ISBN": "978-111111111",
-        "Publication_Year": "1901",
-        "Availability": "Checked Out",
-        "Genre": "Non-Fiction",
-        "Store_Name": "MarsBook"
+      "Title": "To Kill a Mockingbird",
+      "Author": "Harper Lee",
+      "ISBN": "978-0061120084",
+      "publication_year": "1960",
+      "Availability": "Available",
+      "Genre": "Romance",
+      "------": "------"
     },
     {
-        "#######": "#################",
-        "Title": "TEST_TELA",
-        "Author": "Ngoawe",
-        "ISBN": "978-111111111",
-        "Publication_Year": "1901",
-        "Availability": "Checked Out",
-        "Genre": "Non-Fiction",
-        "Store_Name": "MarsBook"
+      "Title": "The Hobbit",
+      "Author": "J.R.R Tolkien",
+      "ISBN": "978-0618002214",
+      "publication_year": "1837",
+      "Availability": "Available",
+      "Genre": "Fantasy",
+      "------": "------"
+    },
+    {
+      "Title": "Sapiens History of Humankind ",
+      "Author": "Yuval Noah Harari",
+      "ISBN": "978-0062316097",
+      "publication_year": "2011",
+      "Availability": "Available",
+      "Genre": "Non-Fiction",
+      "------": "------"
+    },
+    {
+      "Title": "The Da Vinci Code",
+      "Author": "Dan Brown",
+      "ISBN": "978-0307474278",
+      "publication_year": "2003",
+      "Availability": "Checked Out",
+      "Genre": "Mystery",
+      "------": "------"
+    },
+    {
+      "Title": "Horry Pater",
+      "Author": "Ngoawe",
+      "ISBN": "978-0290846512",
+      "publication_year": "1901",
+      "Availability": "Available",
+      "Genre": "Non-Fiction",
+      "------": "------"
     }
-]
+  ]
